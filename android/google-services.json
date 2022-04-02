@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366664655640",
+    "firebase_url": "https://ikea-vs-swedish-default-rtdb.firebaseio.com",
+    "project_id": "ikea-vs-swedish",
+    "storage_bucket": "ikea-vs-swedish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366664655640:android:3c48906ae262d129e7346d",
+        "android_client_info": {
+          "package_name": "com.example.winning_streak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366664655640-jtoi3cgpsdm4opptvms5vgq8is0hgq5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiZUWDx9NoW7msdXUO7K14nw4Wj7tT4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366664655640-jtoi3cgpsdm4opptvms5vgq8is0hgq5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
